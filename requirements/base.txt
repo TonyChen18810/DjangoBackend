@@ -6,7 +6,7 @@ googleads==8.1.0
 bingads==11.5.5.1
 facebookads==2.10.1
 psycopg2==2.7.3.1
-djangorestframework==3.6.4
+djangorestframework==3.9.1
 markdown==2.6.9
 django-filter==1.0.4
 django-solo==1.1.2
